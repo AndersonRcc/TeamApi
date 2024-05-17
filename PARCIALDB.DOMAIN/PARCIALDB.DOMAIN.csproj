@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Interfaces\" />
+    <Folder Include="Infraestructure\Data\" />
+    <Folder Include="Core\DTO\" />
+    <Folder Include="Core\Entities\" />
+    <Folder Include="Core\Services\" />
+  </ItemGroup>
+
+</Project>
